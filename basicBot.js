@@ -238,7 +238,7 @@
     var basicBot = {
         version: "2.8.14",
         status: false,
-        name: "basicBot",
+        name: "Its C25 Official Bot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/mutkanz/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
