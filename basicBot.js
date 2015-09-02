@@ -241,7 +241,7 @@
         name: "Its C25 Official Bot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/mutkanz/basicBot/master/basicBot.js",
-        cmdLink: "http://git.io/245Ppg",
+        cmdLink: "http://git.io/vGaAN",
         chatLink: "https://rawgit.com/mutkanz/basicBot/master/lang/lt.json",
         chat: null,
         loadChat: loadChat,
@@ -2477,7 +2477,7 @@
                             var langIndex = json;
                             var link = langIndex[argument.toLowerCase()];
                             if (typeof link === "undefined") {
-                                API.sendChat(subChat(basicBot.chat.langerror, {link: "http://git.io/vJ9nI"}));
+                                API.sendChat(subChat(basicBot.chat.langerror, {link: "http://git.io/vGax3"}));
                             }
                             else {
                                 basicBot.settings.language = argument;
