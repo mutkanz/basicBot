@@ -242,15 +242,15 @@
         loggedInID: null,
         scriptLink: "https://rawgit.com/mutkanz/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/vGaAN",
-        chatLink: "https://rawgit.com/mutkanz/basicBot/master/lang/lt.json",
+        chatLink: "https://rawgit.com/mutkanz/basicBot/master/lang/en.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
             botName: "Its C25 Official BOT",
-            language: "lithuanian",
-            chatLink: "https://rawgit.com/mutkanz/basicBot/master/lang/lt.json",
+            language: "english",
+            chatLink: "https://rawgit.com/mutkanz/basicBot/master/lang/en.json",
             scriptLink: "https://rawgit.com/mutkanz/basicBot/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
